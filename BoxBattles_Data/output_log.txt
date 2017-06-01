@@ -1,0 +1,52 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon HD 7970M (ID=0x6800)
+    Vendor:   ATI
+    VRAM:     2029 MB
+    Driver:   21.19.407.0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Gosunet\Documents\BoxBattles\BoxBattles_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Gosunet\Documents\BoxBattles\BoxBattles_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Gosunet\Documents\BoxBattles\BoxBattles_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Gosunet\Documents\BoxBattles\BoxBattles_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Gosunet\Documents\BoxBattles\BoxBattles_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Gosunet\Documents\BoxBattles\BoxBattles_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Gosunet\Documents\BoxBattles\BoxBattles_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Gosunet\Documents\BoxBattles\BoxBattles_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Gosunet\Documents\BoxBattles\BoxBattles_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Gosunet\Documents\BoxBattles\BoxBattles_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Gosunet\Documents\BoxBattles\BoxBattles_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Gosunet\Documents\BoxBattles\BoxBattles_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.051 seconds
+Platform assembly: C:\Users\Gosunet\Documents\BoxBattles\BoxBattles_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Gosunet\Documents\BoxBattles\BoxBattles_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 3840x1081 at -1920,-1
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.110205 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 22a4 -> priority: 1 
+  Thread -> id: 770 -> priority: 1 
+  Thread -> id: 118c -> priority: 1 
+  Thread -> id: 780 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.453775 ms
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 390.
+Total: 1.112446 ms (FindLiveObjects: 0.074073 ms CreateObjectMapping: 0.138330 ms MarkObjects: 0.551983 ms  DeleteObjects: 0.346719 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.264157 ms
+
+Unloading 56 unused Assets to reduce memory usage. Loaded Objects now: 282.
+Total: 5.650584 ms (FindLiveObjects: 0.063810 ms CreateObjectMapping: 0.029451 ms MarkObjects: 0.400712 ms  DeleteObjects: 5.153486 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.580988 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 304.
+Total: 0.666664 ms (FindLiveObjects: 0.039714 ms CreateObjectMapping: 0.021418 ms MarkObjects: 0.291833 ms  DeleteObjects: 0.311913 ms)
+
